@@ -1,0 +1,20 @@
+1. Get TMDB API key:
+    TMDB (https://www.themoviedb.org/) -> Settings -> API key -> Fill the form -> Copy API url -> Postman -> Create a new GET request -> Paste the url -> send 
+
+2. Create a react app:
+    $ npx create-react-app netflix-clone
+    $ cd netflix-clone
+
+3. Set up firebase hosting:
+    Go to firebase (https://firebase.google.com/?gclid=Cj0KCQjw1bqZBhDXARIsANTjCPKyXDydIHCzkeHWjVox3TRs7oDKViHYpkl2FAQOoOVKcCzJjKVG72waAhI8EALw_wcB&gclsrc=aw.ds) -> Add Project -> Fill the form -> Click the code button -> Register the app -> 
+    $ npm install -g firebase-tools
+
+4. Get all the movies:
+    $ npm start
+    $ npm install axios -> https://axios-http.com/docs/intro
+
+5. Build the rows:
+    fetching the data(using react hooks) ->
+6. Build the banner
+7. Build the navbar
+8. Add trailer popups
